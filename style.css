@@ -1,0 +1,119 @@
+/*=====================Universal Styles=====================*/
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;    
+}
+
+p{
+    line-height: 190%;
+}
+
+
+
+/*=====================Menu=====================*/#menu{
+    background-color: darkgrey;
+}
+
+#menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;    
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu a{
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 50px;
+    color: white;
+    
+    padding: 0 40px;
+    border: none;
+    display: inherit;
+}
+
+#menu a:hover{
+    background-color: grey;
+}
+
+/*=====================Header=====================*/
+
+#header{
+    padding: 60px 0px 40px 0;    
+    text-align: center;
+    background-color: black;
+}
+
+#header h1{
+    letter-spacing: 0.1em; 
+    font-size: 50px;
+    color: white;
+}
+
+#header p{
+    letter-spacing: 0.1em;
+    color: white;
+}
+
+/*=====================Page=====================*/
+
+#page{
+    min-height: 400px;
+    padding: 0px; 
+    text-align: center;
+}
+
+#left-column{
+    float: left;
+    text-align: right;
+    
+    width: 47%;
+    background-color: white;
+}
+
+#right-column{ 
+    float: right;
+    text-align: left;
+    width: 47%;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
